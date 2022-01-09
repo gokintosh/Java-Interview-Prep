@@ -11,6 +11,7 @@
     <modules>
         <module>basicoops</module>
         <module>java8</module>
+        <module>DSA</module>
     </modules>
 
     <dependencies>
